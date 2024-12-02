@@ -6,9 +6,6 @@ Welcome to my GitHub profile!
 - 🌱 Currently learning machine learning and AI.
 - 🎯 Goals: Contribute to meaningful projects.
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webexpert&show_icons=true)
-
 ## 🧑‍💻 Skills & Expertise
 - Experienced React Native developer with a focus on building cross-platform mobile apps.
 - Proficient in JavaScript, React, and React Native frameworks.
@@ -21,4 +18,7 @@ Welcome to my GitHub profile!
 
 ## 🌐 Connect with Me
 - 💼 [Upwork](https://www.upwork.com/)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webexpert&show_icons=true)
 
