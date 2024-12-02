@@ -10,6 +10,5 @@ Welcome to my GitHub profile!
 ![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-- 📝 [Portfolio](https://example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/johndoe)
-- 🐦 [Twitter](https://twitter.com/johndoe)
+- 💼 [Upwork](https://www.upwork.com/)
+
