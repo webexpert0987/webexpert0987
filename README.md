@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 - Strong problem-solving skills with attention to detail in app development.
 
 ## 🌐 Connect with Me
-- 💼 [Upwork](https://www.upwork.com/)
+- 💼 [Email: webexpert0987@gmail.com]
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webexpert&show_icons=true)
