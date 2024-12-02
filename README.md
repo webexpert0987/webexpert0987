@@ -1,4 +1,4 @@
-# Hi, I'm John Doe! 👋
+# Hi, I'm webexpert! 👋
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🎯 Goals: Contribute to meaningful projects.
 
 ## 📈 GitHub Stats
-![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webexpert&show_icons=true)
 
 ## 🧑‍💻 Skills & Expertise
 - Experienced React Native developer with a focus on building cross-platform mobile apps.
